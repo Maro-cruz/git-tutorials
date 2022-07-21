@@ -1,2 +1,6 @@
 git config --global user.name "marodev"
 git config --global user.email "oghenemaro.umuomo@gmail.com"
+git status
+git add gitTutorials.txt #Move the text file from working directory (wd) to staging area
+git status
+git commit -m "Commiting file gitTutorials.txt"
